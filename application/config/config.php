@@ -16,7 +16,7 @@
 | environments.
 |
 */
-$config['base_url'] = "http://".$_SERVER['HTTP_HOST']."/app_surat-master/";
+$config['base_url'] = "http://".$_SERVER['HTTP_HOST']."/plurilateral-Admin/";
 
 /*
 |--------------------------------------------------------------------------
